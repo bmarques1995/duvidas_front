@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+}
+.capsula{
+    display: flex;
+    width: 280px;
+    justify-content: space-between;
+    cursor: pointer;
+}
